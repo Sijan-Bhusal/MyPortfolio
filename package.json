@@ -12,6 +12,7 @@
   "description": "",
   "devDependencies": {
     "@11ty/eleventy": "github:11ty/eleventy",
+    "netlify-cli": "^17.33.4",
     "tailwindcss": "^3.4.7"
   }
 }
